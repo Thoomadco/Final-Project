@@ -5,8 +5,3 @@
  
  (Introduction to Computer Science)
  
-### References:
-1. "https://e.vnexpress.net/"
-2. "https://techcrunch.com/"
-
-### 
